@@ -1,0 +1,10 @@
+2023-03-15 12:40:48,409-root-ERROR-division by zero
+Traceback (most recent call last):
+  File "C:\capstone_project\Logger\demologger.py", line 6, in <module>
+    a/b
+ZeroDivisionError: division by zero
+2023-03-15 12:42:42,182-root-ERROR-division by zero
+Traceback (most recent call last):
+  File "C:\capstone_project\Logger\demologger.py", line 6, in <module>
+    print(a/b)
+ZeroDivisionError: division by zero

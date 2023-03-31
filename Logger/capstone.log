@@ -1,0 +1,160 @@
+2023-03-15 15:34:12,473-root-INFO-Drive namec:// file namereport.html
+2023-03-15 15:34:12,473-root-INFO-class usedSearchFile
+2023-03-15 15:34:12,566-root-INFO-myhcl database is connected
+2023-03-15 15:34:12,570-root-INFO-Not Found in Database
+2023-03-15 15:34:12,571-root-INFO-Now searching in Drives
+2023-03-15 15:35:47,540-root-INFO-Drive namec:// file namereport.html
+2023-03-15 15:35:47,540-root-INFO-class usedSearchFile
+2023-03-15 15:35:47,625-root-INFO-myhcl database is connected
+2023-03-15 15:35:47,628-root-INFO-Not Found in Database
+2023-03-15 15:35:47,628-root-INFO-Now searching in Drives
+2023-03-15 15:35:47,629-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-15 15:36:04,066-root-INFO-files found ['c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_project.659b8d65\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_pythonproject.d35c317b\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject.e038e913\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject1.26e4397e\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject2.26e4397f\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject1\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\practiseprograms\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\testprog\\report.html']
+2023-03-15 15:36:04,074-root-INFO-time taken16.44562602043152
+2023-03-15 15:36:04,075-root-INFO-Ending
+2023-03-16 10:53:51,129-root-INFO-Drive namec:// file namereport.html
+2023-03-16 10:53:51,130-root-INFO-class usedSearchFile
+2023-03-16 10:53:51,218-root-INFO-myhcl database is connected
+2023-03-16 10:53:51,221-root-INFO-Not Found in Database
+2023-03-16 10:53:51,221-root-INFO-Now searching in Drives
+2023-03-16 10:53:51,221-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 10:54:13,343-root-INFO-files found ['c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_project.659b8d65\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_pythonproject.d35c317b\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject.e038e913\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject1.26e4397e\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject2.26e4397f\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject1\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\practiseprograms\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\testprog\\report.html']
+2023-03-16 10:54:13,346-root-INFO-time taken22.12554955482483
+2023-03-16 10:54:13,346-root-INFO-Ending
+2023-03-16 11:01:33,162-root-INFO-Drive namec:// file namereport.html
+2023-03-16 11:01:33,163-root-INFO-class usedSearchFile
+2023-03-16 11:01:33,257-root-INFO-myhcl database is connected
+2023-03-16 11:01:33,261-root-INFO-Not Found in Database
+2023-03-16 11:01:33,261-root-INFO-Now searching in Drives
+2023-03-16 11:01:33,261-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 11:01:54,893-root-INFO-files found ['c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_project.659b8d65\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_pythonproject.d35c317b\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject.e038e913\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject1.26e4397e\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject2.26e4397f\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject1\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\practiseprograms\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\testprog\\report.html']
+2023-03-16 11:01:54,894-root-INFO-time taken21.633416414260864
+2023-03-16 11:01:54,894-root-INFO-Ending
+2023-03-16 11:09:55,561-root-INFO-Drive namec:// file namereport.html
+2023-03-16 11:09:55,561-root-INFO-class usedSearchFile
+2023-03-16 11:09:55,654-root-INFO-myhcl database is connected
+2023-03-16 11:09:55,656-root-INFO-Not Found in Database
+2023-03-16 11:09:55,657-root-INFO-Now searching in Drives
+2023-03-16 11:09:55,657-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 11:10:16,893-root-INFO-files found ['c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_project.659b8d65\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_pythonproject.d35c317b\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject.e038e913\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject1.26e4397e\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject2.26e4397f\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject1\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\practiseprograms\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\testprog\\report.html']
+2023-03-16 11:10:16,894-root-INFO-time taken21.237425327301025
+2023-03-16 11:10:16,895-root-INFO-Ending
+2023-03-16 11:16:38,868-root-INFO-Drive namec:// file namereport.html
+2023-03-16 11:16:38,868-root-INFO-class usedSearchFile
+2023-03-16 11:16:38,968-root-INFO-myhcl database is connected
+2023-03-16 11:16:38,972-root-INFO-Not Found in Database
+2023-03-16 11:16:38,972-root-INFO-Now searching in Drives
+2023-03-16 11:16:38,972-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 11:17:50,987-root-INFO-Drive namec:// file namereport.html
+2023-03-16 11:17:50,987-root-INFO-class usedSearchFile
+2023-03-16 11:17:51,077-root-INFO-myhcl database is connected
+2023-03-16 11:17:51,079-root-INFO-Not Found in Database
+2023-03-16 11:17:51,079-root-INFO-Now searching in Drives
+2023-03-16 11:17:51,080-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 11:21:19,033-root-INFO-Drive namec:// file namereport.html
+2023-03-16 11:21:19,033-root-INFO-class usedSearchFile
+2023-03-16 11:21:19,120-root-INFO-myhcl database is connected
+2023-03-16 11:21:19,122-root-INFO-Not Found in Database
+2023-03-16 11:21:19,122-root-INFO-Now searching in Drives
+2023-03-16 11:21:19,122-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 11:21:39,665-root-INFO-files found ['c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_project.659b8d65\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_pythonproject.d35c317b\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject.e038e913\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject1.26e4397e\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject2.26e4397f\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject1\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\practiseprograms\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\testprog\\report.html']
+2023-03-16 11:21:39,666-root-INFO-time taken20.54449152946472
+2023-03-16 11:21:39,667-root-INFO-Ending
+2023-03-16 11:42:35,244-root-INFO-Drive namec:// file namereport.html
+2023-03-16 11:42:35,244-root-INFO-class usedSearchFile
+2023-03-16 11:42:35,335-root-INFO-myhcl database is connected
+2023-03-16 11:42:35,338-root-INFO-Not Found in Database
+2023-03-16 11:42:35,339-root-INFO-Now searching in Drives
+2023-03-16 11:42:35,339-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 11:42:56,642-root-INFO-files found ['c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_project.659b8d65\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_pythonproject.d35c317b\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject.e038e913\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject1.26e4397e\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject2.26e4397f\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject1\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\practiseprograms\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\testprog\\report.html']
+2023-03-16 11:42:56,644-root-INFO-time taken21.304338455200195
+2023-03-16 11:42:56,644-root-INFO-Ending
+2023-03-16 11:44:27,802-root-INFO-Drive namec:// file namereport.html
+2023-03-16 11:44:27,802-root-INFO-class usedSearchFile
+2023-03-16 11:44:27,893-root-INFO-myhcl database is connected
+2023-03-16 11:44:27,896-root-INFO-Not Found in Database
+2023-03-16 11:44:27,896-root-INFO-Now searching in Drives
+2023-03-16 11:44:27,897-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 11:45:33,158-root-INFO-Drive namec:// file namereport.html
+2023-03-16 11:45:33,158-root-INFO-class usedSearchFile
+2023-03-16 11:45:33,250-root-INFO-myhcl database is connected
+2023-03-16 11:45:33,252-root-INFO-Not Found in Database
+2023-03-16 11:45:33,253-root-INFO-Now searching in Drives
+2023-03-16 11:45:33,253-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 11:47:58,771-root-INFO-Drive namec:// file namereport.html
+2023-03-16 11:47:58,771-root-INFO-class usedSearchFile
+2023-03-16 11:47:58,869-root-INFO-myhcl database is connected
+2023-03-16 11:47:58,870-root-INFO-Not Found in Database
+2023-03-16 11:47:58,871-root-INFO-Now searching in Drives
+2023-03-16 11:47:58,871-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 11:48:20,255-root-INFO-files found ['c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_project.659b8d65\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_pythonproject.d35c317b\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject.e038e913\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject1.26e4397e\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject2.26e4397f\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject1\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\practiseprograms\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\testprog\\report.html']
+2023-03-16 11:48:20,257-root-INFO-time taken21.385658025741577
+2023-03-16 11:48:20,257-root-INFO-Ending
+2023-03-16 11:50:15,715-root-INFO-Drive namec:// file namereport.html
+2023-03-16 11:50:15,716-root-INFO-class usedSearchFile
+2023-03-16 11:50:15,815-root-INFO-myhcl database is connected
+2023-03-16 11:50:15,817-root-INFO-Not Found in Database
+2023-03-16 11:50:15,817-root-INFO-Now searching in Drives
+2023-03-16 11:50:15,818-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 11:50:37,158-root-INFO-files found ['c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_project.659b8d65\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\capstone_pythonproject.d35c317b\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject.e038e913\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject1.26e4397e\\report.html', 'c://Users\\user325\\AppData\\Local\\JetBrains\\PyCharmCE2022.2\\log\\indexing-diagnostic\\pythonproject2.26e4397f\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject1\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\practiseprograms\\report.html', 'c://Users\\user325\\PycharmProjects\\pythonProject2\\testprog\\report.html']
+2023-03-16 11:50:37,161-root-INFO-time taken21.34329891204834
+2023-03-16 11:50:37,161-root-INFO-Ending
+2023-03-16 12:40:34,379-root-INFO-Drive namec:// file namereport.html
+2023-03-16 12:40:34,380-root-INFO-class usedSearchFile
+2023-03-16 12:40:34,470-root-INFO-myhcl database is connected
+2023-03-16 12:41:55,565-root-INFO-Drive namec:// file namereport.html
+2023-03-16 12:41:55,566-root-INFO-class usedSearchFile
+2023-03-16 12:41:55,667-root-INFO-myhcl database is connected
+2023-03-16 12:42:59,294-root-INFO-Drive namec:// file namereport.html
+2023-03-16 12:42:59,295-root-INFO-class usedSearchFile
+2023-03-16 12:42:59,369-root-INFO-myhcl database is connected
+2023-03-16 12:43:54,180-root-INFO-Drive namec:// file namereport.html
+2023-03-16 12:43:54,181-root-INFO-class usedSearchFile
+2023-03-16 12:43:54,272-root-INFO-myhcl database is connected
+2023-03-16 12:49:07,649-root-INFO-Drive namec:// file namereport.html
+2023-03-16 12:49:07,650-root-INFO-class usedSearchFile
+2023-03-16 12:49:07,745-root-INFO-myhcl database is connected
+2023-03-16 13:08:09,900-root-INFO-Drive namec:// file namereport.html
+2023-03-16 13:08:09,901-root-INFO-class usedSearchFile
+2023-03-16 13:08:09,990-root-INFO-myhcl database is connected
+2023-03-16 16:47:56,455-root-INFO-Drive namec:// file namereport.html
+2023-03-16 16:47:56,456-root-INFO-class usedSearchFile
+2023-03-16 16:47:56,554-root-INFO-myhcl database is connected
+2023-03-16 16:53:03,158-root-INFO-Drive namec:// file namereport.html
+2023-03-16 16:53:03,158-root-INFO-class usedSearchFile
+2023-03-16 16:53:03,245-root-INFO-myhcl database is connected
+2023-03-16 17:41:57,747-root-INFO-Drive namec:// file namereport.html
+2023-03-16 17:41:57,748-root-INFO-class usedSearchFile
+2023-03-16 17:43:36,007-root-INFO-Drive namec:// file namereport.html
+2023-03-16 17:43:36,008-root-INFO-class usedSearchFile
+2023-03-16 17:43:36,113-root-INFO-myhcl database is connected
+2023-03-16 17:47:36,719-root-INFO-Drive namec:// file nameDemo.py
+2023-03-16 17:47:36,720-root-INFO-class usedSearchFile
+2023-03-16 17:47:36,840-root-INFO-myhcl database is connected
+2023-03-16 17:47:36,842-root-INFO-Not Found in Database
+2023-03-16 17:47:36,842-root-INFO-Now searching in Drives
+2023-03-16 17:47:36,843-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 17:48:53,736-root-INFO-Drive namec:// file nameDemo.py
+2023-03-16 17:48:53,737-root-INFO-class usedSearchFile
+2023-03-16 17:48:53,856-root-INFO-myhcl database is connected
+2023-03-16 17:48:53,861-root-INFO-Not Found in Database
+2023-03-16 17:48:53,863-root-INFO-Now searching in Drives
+2023-03-16 17:48:53,864-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 17:51:19,291-root-INFO-Drive namec:// file nameDemo.py
+2023-03-16 17:51:19,293-root-INFO-class usedSearchFile
+2023-03-16 17:51:19,420-root-INFO-myhcl database is connected
+2023-03-16 17:51:19,422-root-INFO-Not Found in Database
+2023-03-16 17:51:19,422-root-INFO-Now searching in Drives
+2023-03-16 17:51:19,422-root-INFO-for searching in drive SearchFilesDrives is used
+2023-03-16 17:51:39,099-root-INFO-files found ['c://Users\\user325\\PycharmProjects\\pythonProject2\\testprog\\Demo.py']
+2023-03-16 17:51:39,101-root-INFO-time taken19.67812991142273
+2023-03-16 17:51:39,101-root-INFO-Ending
+2023-03-17 15:18:12,588-root-INFO-Drive namec:// file nameDemo.py
+2023-03-17 15:18:12,588-root-INFO-class usedSearchFile
+2023-03-17 15:18:12,702-root-INFO-myhcl database is connected
+2023-03-17 15:44:31,338-root-INFO-Drive namec:// file nameDemo.py
+2023-03-17 15:44:31,339-root-INFO-class usedSearchFile
+2023-03-17 15:44:31,443-root-INFO-myhcl database is connected
+2023-03-21 07:12:06,967-root-INFO-Drive nameC:// file nameDemo.py
+2023-03-21 07:12:06,967-root-INFO-class usedSearchFile
+2023-03-21 07:12:07,120-root-INFO-myhcl database is connected
